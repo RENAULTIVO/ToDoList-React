@@ -3,10 +3,17 @@
 # To-Do List
 #### Lista de tarefas em ReactJS usando armazenamento local.
 ## Screenshots | Mobile
-![Screenshot 0 - mobile](/screenshots/mobile-0.png) ![Screenshot 1 - mobile](/screenshots/mobile-1.png) ![Screenshot 2 - mobile](/screenshots/mobile-2.png)
+
+<p>
+  <img width="400" alt="Screenshot 0 - mobile" src="/screenshots/mobile-1.png">
+  <img width="400" alt="Screenshot 0 - mobile" src="/screenshots/mobile-2.png">
+</p>
 
 ## Screenshots | Desktop
-![Screenshot 0 - desktop](/screenshots/desktop-0.png) ![Screenshot 1 - desktop](/screenshots/desktop-1.png) ![Screenshot 2 - desktop](/screenshots/desktop-2.png)
+
+<p>
+  <img width="800" alt="Screenshot 0 - mobile" src="/screenshots/desktop-2.png">
+</p>
 
 Como executar o projeto?
 ### `npm start
