@@ -1,0 +1,43 @@
+body {
+    background-color: #222222;
+}
+
+@keyframes rippleEffect {
+
+    0% {
+        opacity: 1;
+        transform: scale(0);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1);
+    }
+
+}
+
+
+@keyframes fadeInZoomIn {
+    0% {
+        opacity: 0;
+        margin-top: -50px;
+        transform: scale(0.8);
+    }
+    70% {
+        transform: scale(1);
+    }
+    100% {
+        opacity: 1;
+        margin-top: 20px;
+    }
+}
+
+
+h1 {
+    padding: 20px;
+}
+
+.appLogoText {
+    flex: 3;
+    color: #DDDDDD;
+    font-family: monospace;
+}
