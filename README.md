@@ -16,4 +16,4 @@
 </p>
 
 Como executar o projeto?
-### `npm start
+### `npm start`
