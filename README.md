@@ -17,3 +17,7 @@
 
 Como executar o projeto?
 ### `npm start`
+
+- [x] Set local To-Do items
+- [x] Show done items
+- [x] Allow user to delete done and undone items
